@@ -1,7 +1,7 @@
 # Hi there 👋, AbduRehman here. 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Abdurehman101.repoName) [![GitHub followers](https://img.shields.io/github/followers/Abdurehman101.svg?style=social&label=Follow)](https://github.com/Abdurehman101?tab=followers)<br/>
 
-<img align="right" width=250px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
+<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
