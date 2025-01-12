@@ -17,7 +17,7 @@ I am an undergraduate Computer science Student in Virtual University of Pakistan
   - Reactjs
 - ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 - ✨Outside tech, I love to watch movies,💻 listen to music,🎵 and explore nature outdoors🌴.
-- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/abdu-rehman-076143249?">Linkedin</a>
+- 📫 Reach out to me at: <a href="https://www.linkedin.com/in/abdu-rehman-076143249?" target="_blank" >Linkedin</a>
 
 <h2>👀 My github Stats</h2>
 
