@@ -19,12 +19,12 @@ I am an undergraduate Computer science Student in Virtual University of Pakistan
 - ✨Outside tech, I love to watch movies,💻 listen to music,🎵 and explore nature outdoors🌴.
 - 📫 Reach out to me at: <a href="https://www.linkedin.com/in/abdu-rehman-076143249?" target="_blank" >Linkedin</a>
 
-<h2>👀 My github Stats</h2>
+<h2>👀 My Github Stats</h2>
 
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdurehman101" alt="GitHub Stats" /> <br/><br/>
+   [![GitHub Streak](https://streak-stats.demolab.com?user=Abdurehman101&hide_border=true)](https://git.io/streak-stats) <br/><br/>
   
 </div>
 
