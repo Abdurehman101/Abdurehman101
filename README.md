@@ -23,9 +23,8 @@ I am an undergraduate Computer science Student in Virtual University of Pakistan
 
 <div>
   <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-   <img srcset="[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdurehman101&theme=default)](https://git.io/streak-stats)"> <br/><br/>
-  
+       
+  </p>
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=Abdurehman101&show_icons=true&include_all_commits=true)
