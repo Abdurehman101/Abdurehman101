@@ -24,7 +24,7 @@ I am an undergraduate Computer science Student in Virtual University of Pakistan
 <div>
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
-   [![GitHub Streak](https://streak-stats.demolab.com?user=Abdurehman101&hide_border=true)](https://git.io/streak-stats) <br/><br/>
+   <img src="[![GitHub Streak](https://streak-stats.demolab.com/?user=Abdurehman101&theme=default)](https://git.io/streak-stats)"> <br/><br/>
   
 </div>
 
